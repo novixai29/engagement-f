@@ -92,7 +92,7 @@ body {
     var(--ink);
 
   font-family:
-    var(--font-body);
+  var(--font-hand);
 
   background:
     var(--desk-dark);
